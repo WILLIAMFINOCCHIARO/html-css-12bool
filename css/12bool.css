@@ -16,12 +16,24 @@
   flex-wrap: wrap;
 }
 
+.col {
+  flex-grow:0;
+  flex-basis: 0;
+  max-width: 100%;
+}
+
+
+
 .box {
   min-height: 200px;
   background-color: pink;
   border:1px solid black;
   text-align: center;
   line-height: 200px;
+}
+
+#nest {
+  background-color: #f07f80;
 }
 
 .col-sm-1 {
