@@ -6,7 +6,7 @@
 
 .container-sm {
   width: 100%;
-  max-width: 540px;
+  max-width: 100%;
   margin:0 auto;
 }
 
@@ -25,11 +25,11 @@
 
 
 .box {
-  min-height: 200px;
+  min-height: 100px;
   background-color: pink;
   border:1px solid black;
   text-align: center;
-  line-height: 200px;
+  line-height: 100px;
 }
 
 #nest {
