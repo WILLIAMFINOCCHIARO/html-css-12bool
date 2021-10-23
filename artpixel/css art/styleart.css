@@ -9,6 +9,12 @@ header img {
   height: 400px;
 }
 
+footer {
+  margin:0 auto;
+  color:#008fd1;
+  font-size: 40px;
+  background-color: lightblue;
+}
 
 .black {
   background-color: black;
