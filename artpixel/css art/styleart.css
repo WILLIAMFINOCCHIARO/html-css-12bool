@@ -1,4 +1,10 @@
 
+body {
+  background-color: lightseagreen;
+}
+
+
+
 header {
   margin: 0 auto;
 }
@@ -13,7 +19,7 @@ footer {
   margin:0 auto;
   color:#008fd1;
   font-size: 40px;
-  background-color: lightblue;
+  background-color: blue;
 }
 
 .black {
