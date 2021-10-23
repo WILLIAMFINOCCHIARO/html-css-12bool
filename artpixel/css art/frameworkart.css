@@ -5,9 +5,11 @@
 }
 
 .container {
-  width: 100%;
+  width: 80%;
   max-width: 100%;
   margin:0 auto;
+  border: 2px solid blue;
+  background-color: #008fd1;
 }
 
 .row {
@@ -18,8 +20,7 @@
 
 
 .box {
-  min-height: 40px;
-  border:1px solid gray;
+  min-height: 30px;
 }
 
 
