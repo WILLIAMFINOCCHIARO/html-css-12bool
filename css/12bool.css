@@ -1,40 +1,4 @@
-* {
-  margin:0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-.container-sm {
-  width: 100%;
-  max-width: 100%;
-  margin:0 auto;
-}
-
-.row {
-  width: 100%;
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.col {
-  flex-grow:0;
-  flex-basis: 0;
-  max-width: 100%;
-}
-
-
-
-.box {
-  min-height: 100px;
-  background-color: pink;
-  border:1px solid black;
-  text-align: center;
-  line-height: 100px;
-}
-
-#nest {
-  background-color: #f07f80;
-}
+/* small query */
 
 .col-sm-1 {
   max-width: calc((100% / 12)*1);
